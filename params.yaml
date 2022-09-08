@@ -1,0 +1,13 @@
+{
+'file_name' : 'Trepn_2022.04.04_183605_q360_total.csv',
+'data_dir' : './data',
+'model_dir' : './model',
+'label_name' : 'Battery',
+'train_frac' : 0.5,
+'sequence_length' : 10,
+'batch_size' : 5,
+'n_epochs' : 200,
+'n_epochs_stop' : 50,
+'background_data_size' : 191,
+'test_sample_size' : 40
+}
